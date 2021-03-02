@@ -1,0 +1,3 @@
+INFO: 2021/03/02 22:51:36 logger.go:35: 10 and 20 are not same
+INFO: 2021/03/02 22:51:46 logger.go:35: 10 and 20 are not same
+INFO: 2021/03/02 23:01:56 logger.go:35: 10 and 20 are not same
