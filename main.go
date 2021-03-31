@@ -1,12 +1,8 @@
 package main
 
-import (
-	exer "github.com/angeldhakal/go-learn/exercises"
-	// dsa "github.com/angeldhakal/go-learn/exercises/dsa"
-	// "github.com/angeldhakal/go-learn/core"
-)
+import "github.com/angeldhakal/go-learn/goroutine"
 
 func main() {
-	// core.Logger()
-	exer.Quiz()
+	goroutine.GoRoutine01()
+	// fmt.Println("hello\rworl\rd")
 }
