@@ -1,8 +1,7 @@
 package main
 
-import "github.com/angeldhakal/go-learn/goroutine"
+import "github.com/angeldhakal/go-learn/exercises"
 
 func main() {
-	goroutine.GoRoutine01()
-	// fmt.Println("hello\rworl\rd")
+    exercises.Fib()
 }
