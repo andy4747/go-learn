@@ -1,0 +1,1 @@
+INSERT INTO `quotes`(`symbol_id`, `time_exchange`, `time_coinapi`, `ask_price`, `ask_size`, `bid_price`, `bid_size`) VALUES ('eth_cad', '2024-08-19 10:00', '2024-08-19 10:00', '900.79', '45', '770', '20');
